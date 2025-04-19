@@ -1,0 +1,3 @@
+/Users/rohanjaiswal/Desktop/projects/Paint App Graphic/cmake-build-debug/CMakeFiles/Paint_App_Graphic.dir
+/Users/rohanjaiswal/Desktop/projects/Paint App Graphic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rohanjaiswal/Desktop/projects/Paint App Graphic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
